@@ -52,6 +52,11 @@ body {
   display: inline-block;
 }
 
+.nav .about li :hover {
+  background-color: #dbdfd0;
+  border-radius: 40px;
+}
+
 .nav a {
   color: #2c2f24;
   text-decoration: none;
@@ -80,12 +85,9 @@ body {
   border-width: 1px;
 }
 
-.nav .front {
-  background-color: #dbdfd0;
-  border-radius: 40px;
-  border: 0px;
-  width: 85px;
-  text-align: center;
+.nav .bt :hover {
+  background-color: #757575;
+  color: #fafafa;
 }
 
 .space {
