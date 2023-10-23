@@ -1,0 +1,114 @@
+body {
+  background-image: url(../img/food.png);
+  background-size: cover;
+}
+
+.communication {
+  background-color: #474747;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.communication ul {
+  vertical-align: middle;
+}
+
+.left {
+  padding-left: 100px;
+}
+
+.left li {
+  color: #ffffff;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 5px;
+}
+
+.app {
+  padding-right: 120px;
+}
+
+.app li {
+  display: inline-block;
+}
+
+.nav {
+  background-color: #fafafa;
+  padding: 30px;
+}
+
+.nav ul {
+  display: inline-block;
+  vertical-align: middle;
+  text-align: right;
+}
+
+.nav .about {
+  padding-left: 360px;
+  padding-right: 100px;
+}
+
+.nav li {
+  display: inline-block;
+}
+
+.nav a {
+  color: #2c2f24;
+  text-decoration: none;
+  padding: 20px;
+  margin: 10px;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.nav img {
+  padding-left: 50px;
+}
+
+.nav button {
+  text-align: right;
+  padding: 15px;
+  background-color: #fafafa;
+  border-radius: 40px;
+  border-width: 1px;
+}
+
+.nav .front {
+  background-color: #dbdfd0;
+  border-radius: 40px;
+  border: 0px;
+  width: 85px;
+  text-align: center;
+}
+
+.space {
+  text-align: center;
+  color: #2c2f24;
+}
+
+.space button {
+  padding: 15px;
+  margin: 20px;
+  border-radius: 40px;
+  border-width: 1px;
+  background-color: #fafafa;
+}
+
+.space .btn {
+  color: #ffffff;
+  background-color: #ad343e;
+  padding: 15px;
+  border-radius: 40px;
+  border: 0px;
+}
+
+.h1 {
+  font-size: 90px;
+  padding-top: 230px;
+}
+
+.h2 {
+  font-size: 18px;
+  margin: 50px;
+}
