@@ -16,10 +16,15 @@ body {
 
 .left {
   padding-left: 100px;
+  color: #ffffff;
+}
+
+.left div {
+  padding-right: 10px;
+  display: inline-block;
 }
 
 .left li {
-  color: #ffffff;
   display: inline-block;
   vertical-align: middle;
   margin: 5px;
